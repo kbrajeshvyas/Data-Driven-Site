@@ -1,0 +1,30 @@
+/* put your css code here */
+.crop-img{
+  max-height:150px;
+  max-width:100%;
+}
+
+.large-img{
+  max-width:100%;
+}
+
+.thumbnail,.nav, .large-img, .crop-img{
+  border-radius: 25px;
+  padding-top:5px;
+}
+
+.thumbnail,.nav {
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.caption {
+	font-family: arial, serif;
+	text-align: center;
+	color:#22AA22;
+}
+
+.caption2 {
+	font-family: arial, serif;
+	font-size: 14px;
+	color:#2244AA;
+}
